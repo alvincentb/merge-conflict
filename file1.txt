@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Line 1
-=======
-Break the code
->>>>>>> bad
 Line 2
 Line 3
